@@ -1,43 +1,16 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "bye"
-    },
-    {
-      "id": 3,
-      "title": "what up"
-    },
-    {
-      "id": 4,
-      "title": "im here"
-    },
-    {
-      "id": 5,
-      "title": "not here"
-    },
-    {
-      "id": 6,
-      "title": "i am"
-    },
-    {
-      "id": 7,
-      "title": "not yours"
-    },
-    {
-      "id": 8,
-      "title": "is this"
-    },
-    {
-      "id": 9,
-      "title": "working?"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "miembros": [
+    { "id": "m1", "nombreCompleto": "Christian Juárez", "rol": "Ingeniero" },
+    { "id": "m2", "nombreCompleto": "Omar Portilla", "rol": "Diseñador" },
+    { "id": "m3", "nombreCompleto": "Fabiola Gómez", "rol": "Ingeniera" },
+    { "id": "m4", "nombreCompleto": "Renato Cabrera", "rol": "Arquitecto" },
+    { "id": "m5", "nombreCompleto": "Marta Acosta", "rol": "Diseñadora" },
+    { "id": "m6", "nombreCompleto": "Hernán Florez", "rol": "Ingeniero" },
+    { "id": "m7", "nombreCompleto": "André Cuentas", "rol": "Diseñadora" },
+    { "id": "m8", "nombreCompleto": "Diego Tejada", "rol": "Diseñador" },
+    { "id": "m9", "nombreCompleto": "Alejandra Tapia", "rol": "Diseñadora" },
+    { "id": "m10", "nombreCompleto": "Liliana Núñez", "rol": "Arquitecta" },
+    { "id": "m11", "nombreCompleto": "Fernando Acosta", "rol": "Ingeniero" },
+    { "id": "m12", "nombreCompleto": "Juan Alarcón", "rol": "Diseñador" }
+  ]
 }
