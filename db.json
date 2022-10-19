@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    },
+    {
+      "id": 2,
+      "title": "bye"
+    },
+    {
+      "id": 3,
+      "title": "what up"
+    },
+    {
+      "id": 4,
+      "title": "im here"
+    },
+    {
+      "id": 5,
+      "title": "not here"
+    },
+    {
+      "id": 6,
+      "title": "i am"
+    },
+    {
+      "id": 7,
+      "title": "not yours"
+    },
+    {
+      "id": 8,
+      "title": "is this"
+    },
+    {
+      "id": 9,
+      "title": "working?"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
